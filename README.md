@@ -18,3 +18,6 @@ CREATE TABLE users (
     name VARCHAR(50),
     email VARCHAR(50)
 );
+
+
+You can direct import given file of sql for databse : crud_example.sql
