@@ -19,5 +19,7 @@ CREATE TABLE users (
     email VARCHAR(50)
 );
 
-
 You can direct import given file of sql for databse : crud_example.sql
+
+Now we can create interface for add data using add.php file uploded here.
+
