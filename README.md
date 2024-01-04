@@ -25,4 +25,7 @@ Now we can create interface for add data using add.php file uploded here.
 
 For view data, Now we can create a index.php where data is dsiplay and edit link will be there.:   index.php 
 
-NExt step is to create edit file for edit stored data. : edit.php
+NExt step is to create edit file for edit stored data. : edit.php 
+
+next is deleting data from the record file. : delete.php 
+
