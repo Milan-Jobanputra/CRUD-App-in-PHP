@@ -27,5 +27,8 @@ For view data, Now we can create a index.php where data is dsiplay and edit link
 
 NExt step is to create edit file for edit stored data. : edit.php 
 
-next is deleting data from the record file. : delete.php 
+next is deleting data from the record file. : delete.php  
+
+# Note : 
+Remember to replace "username" and "password" with your actual MySQL username and password in the connection statements.
 
